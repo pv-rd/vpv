@@ -1,29 +1,35 @@
 \babel@toc {russian}{}\relax 
-\contentsline {chapter}{\numberline {1}Введение}{2}{}%
-\contentsline {section}{\numberline {1.1}Аннотация}{2}{}%
-\contentsline {section}{\numberline {1.2}Релевантность выбранной темы}{2}{}%
-\contentsline {section}{\numberline {1.3}Цель работы}{3}{}%
-\contentsline {section}{\numberline {1.4}Используемые материалы и оборудование}{3}{}%
-\contentsline {chapter}{\numberline {2}Теоретические сведения}{4}{}%
-\contentsline {section}{\numberline {2.1}Резонатор Гельмгольца}{4}{}%
-\contentsline {subsection}{\numberline {2.1.1}Физическая модель резонатора}{4}{}%
-\contentsline {section}{\numberline {2.2}Скорость звука в газе}{7}{}%
-\contentsline {section}{\numberline {2.3}Метод добавочных шеек}{7}{}%
-\contentsline {section}{\numberline {2.4}Итоговая формула}{8}{}%
-\contentsline {chapter}{\numberline {3}Экспериментальная установка}{9}{}%
-\contentsline {section}{\numberline {3.1}Выбор сосуда}{9}{}%
-\contentsline {section}{\numberline {3.2}Добавочные трубки}{9}{}%
-\contentsline {chapter}{\numberline {4}Методика эксперимента}{11}{}%
-\contentsline {section}{\numberline {4.1}Измерение геометрических параметров}{11}{}%
-\contentsline {section}{\numberline {4.2}Способы возбуждения резонанса}{11}{}%
-\contentsline {section}{\numberline {4.3}Измерение температуры}{12}{}%
-\contentsline {section}{\numberline {4.4}Преимущества и ограничения метода}{12}{}%
-\contentsline {subsection}{\numberline {4.4.1}Преимущества}{12}{}%
-\contentsline {subsection}{\numberline {4.4.2}Ограничения}{12}{}%
-\contentsline {chapter}{\numberline {5}Оценка погрешностей}{13}{}%
-\contentsline {section}{\numberline {5.1}Определение резонансной частоты}{13}{}%
-\contentsline {chapter}{\numberline {6}Результаты измерений}{14}{}%
-\contentsline {section}{\numberline {6.1}Первая серия}{14}{}%
-\contentsline {section}{\numberline {6.2}Вторая серия}{14}{}%
-\contentsline {chapter}{\numberline {7}Обработка измерений}{15}{}%
-\contentsline {chapter}{\numberline {8}Анализ результатов}{16}{}%
+\contentsline {chapter}{\numberline {1}Введение}{3}{}%
+\contentsline {section}{\numberline {1.1}Аннотация}{3}{}%
+\contentsline {section}{\numberline {1.2}Релевантность выбранной темы}{3}{}%
+\contentsline {section}{\numberline {1.3}Цель работы}{4}{}%
+\contentsline {section}{\numberline {1.4}Используемые материалы и оборудование}{4}{}%
+\contentsline {chapter}{\numberline {2}Теоретические сведения}{5}{}%
+\contentsline {section}{\numberline {2.1}Резонатор Гельмгольца}{5}{}%
+\contentsline {section}{\numberline {2.2}Скорость звука в газе}{8}{}%
+\contentsline {section}{\numberline {2.3}Метод добавочных шеек}{8}{}%
+\contentsline {section}{\numberline {2.4}Итоговая формула}{9}{}%
+\contentsline {chapter}{\numberline {3}Экспериментальная установка}{10}{}%
+\contentsline {section}{\numberline {3.1}Выбор сосуда}{10}{}%
+\contentsline {section}{\numberline {3.2}Добавочные трубки}{10}{}%
+\contentsline {chapter}{\numberline {4}Методика эксперимента}{12}{}%
+\contentsline {section}{\numberline {4.1}Измерение геометрических параметров}{12}{}%
+\contentsline {section}{\numberline {4.2}Способы возбуждения резонанса}{12}{}%
+\contentsline {section}{\numberline {4.3}Измерение температуры}{13}{}%
+\contentsline {section}{\numberline {4.4}Определение резонансной частоты}{13}{}%
+\contentsline {section}{\numberline {4.5}Преимущества и ограничения метода}{14}{}%
+\contentsline {subsection}{\numberline {4.5.1}Преимущества}{14}{}%
+\contentsline {subsection}{\numberline {4.5.2}Ограничения}{14}{}%
+\contentsline {chapter}{\numberline {5}Оценка погрешностей}{15}{}%
+\contentsline {section}{\numberline {5.1}Определение резонансной частоты}{15}{}%
+\contentsline {section}{\numberline {5.2}Погрешность концевой поправки}{16}{}%
+\contentsline {section}{\numberline {5.3}Погрешность эффективной длины шейки}{17}{}%
+\contentsline {section}{\numberline {5.4}Погрешность сечения шейки}{17}{}%
+\contentsline {section}{\numberline {5.5}Погрешность объёма бутылки}{18}{}%
+\contentsline {section}{\numberline {5.6}Погрешность наклона графика \(f^2(T)\)}{18}{}%
+\contentsline {section}{\numberline {5.7}Итоговая погрешность \(\gamma \)}{18}{}%
+\contentsline {chapter}{\numberline {6}Результаты измерений}{20}{}%
+\contentsline {section}{\numberline {6.1}Первая серия}{20}{}%
+\contentsline {section}{\numberline {6.2}Вторая серия}{20}{}%
+\contentsline {chapter}{\numberline {7}Обработка измерений}{22}{}%
+\contentsline {chapter}{\numberline {8}Анализ результатов}{23}{}%

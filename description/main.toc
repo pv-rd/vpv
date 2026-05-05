@@ -29,7 +29,8 @@
 \contentsline {section}{\numberline {5.6}Погрешность наклона графика \(f^2(T)\)}{18}{}%
 \contentsline {section}{\numberline {5.7}Итоговая погрешность \(\gamma \)}{18}{}%
 \contentsline {chapter}{\numberline {6}Результаты измерений}{20}{}%
-\contentsline {section}{\numberline {6.1}Первая серия}{20}{}%
-\contentsline {section}{\numberline {6.2}Вторая серия}{20}{}%
-\contentsline {chapter}{\numberline {7}Обработка измерений}{22}{}%
-\contentsline {chapter}{\numberline {8}Анализ результатов}{23}{}%
+\contentsline {section}{\numberline {6.1}Предварительные измерения}{20}{}%
+\contentsline {section}{\numberline {6.2}Первая серия}{20}{}%
+\contentsline {section}{\numberline {6.3}Вторая серия}{22}{}%
+\contentsline {chapter}{\numberline {7}Обработка измерений}{24}{}%
+\contentsline {chapter}{\numberline {8}Анализ результатов}{25}{}%

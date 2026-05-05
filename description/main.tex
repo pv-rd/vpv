@@ -10,14 +10,26 @@
 \captionsetup[table]{
 	position=top,
 	justification=raggedleft,
-	singlelinecheck=false
+	singlelinecheck=false,
+	aboveskip=0pt
 }
+
 
 \usepackage{geometry, graphicx, multirow, booktabs, derivative}
 
 \geometry{top=2cm, bottom=2cm, left=2cm, right=1cm}
 
 \usepackage{fancyhdr}
+
+\let\oldcaptionbox\captionbox
+\renewcommand{\captionbox}[2]{%
+	\refstepcounter{table}%       <-- принудительно увеличиваем счётчик таблицы
+	\addtocounter{table}{-1}% 
+	\oldcaptionbox{#1}{#2 \label{}}% <-- оставляем пустую метку внутри
+
+	
+}
+
 
 \begin{document}
 	\begin{titlepage}
@@ -412,12 +424,19 @@
 	\section{Итоговая формула}
 	
 	\hspace{4mm} После того как величина \(\delta\) определена, можно считать известной эффективную длину исходного горлышка. Если обозначить наклон прямой \(f^2(T)\) через \(k\), то $f^2=kT$ по формуле \eqref{eq:f2T}. Следовательно,
+	
 	\begin{equation}
-		\boxed{\gamma= k \frac{4\pi^2 \mu V }{RS}L_{\text{эфф}}}
+		\gamma= k \frac{4\pi^2 \mu V }{RS}L_{\text{эфф}}
+		\label{eq:gamma_prefinal}
+	\end{equation}
+	
+	Выразив площадь сечения горлышка через его диаметр $S = \pi d^2 / 4$, имеем итоговую рассчётную формулу:
+	
+	\begin{equation}
+		\boxed{\gamma=  \frac{16\pi\mu}{R} \frac{kVL_{эфф}}{d^2}}
 		\label{eq:gamma_final}
 	\end{equation}
 	
-	Эта формула является итоговой рабочей формулой всего метода.
 	
 	
 	\chapter{Экспериментальная установка}
@@ -784,6 +803,21 @@
 	
 	\chapter{Результаты измерений}
 	
+		\section{Предварительные измерения}
+		
+		\begin{table}[h!]
+			\centering
+			\captionbox{Предварительные измерения}{
+			\begin{tabular}{|r|l|}
+				\hline
+				Диаметр горлышка $d$, мм & $14,55 \pm 0,05$ \\
+				\hline
+				Объём бутылки $V$, мл & $500,0 \pm 0,1$ \\
+				\hline
+			\end{tabular}}
+			\label{tab:pre}%
+		\end{table}%
+	
 		\section{Первая серия}
 		
 			\hspace{4mm} В качестве добавочных шеек использовались пластмассовые трубки с внутренним и наружным диаметром соответственно
@@ -796,14 +830,14 @@
 			
 			\begin{table}[h!]
 				\centering
-				\caption{Длины трубок}
+				\captionbox{Длины трубок}{
 				\begin{tabular}{|r|ccccccc|}
 					\hline
 					№        & 1        & 2        & 3        & 4        & 5        & 6        & 7 \\
 					\hline
 					L, мм    & 13,15    & 20,20    & 30,15    & 40,40    & 50,25    & 60,75    & 70,00 \\
 					\hline
-				\end{tabular}
+				\end{tabular}}
 				\label{tab:L}
 			\end{table}
 			
@@ -819,7 +853,7 @@
 		
 			\begin{table}[h!]
 				\centering
-				\caption{Результаты измерений в первой серии}
+				\captionbox{Результаты измерений в первой серии}{
 				\begin{tabular}{|r|r|r|r|}
 					\hline
 					$L$, мм    & $f$, Гц    & $\Delta f$, Гц   & $Q$ \\
@@ -838,14 +872,27 @@
 					\hline
 					70,00    & 92,1     & 4,7      & 19,6 \\
 					\hline
-				\end{tabular}
+				\end{tabular}}
 				\label{tab:1-series}
 			\end{table}%
+			
+			По полученным данным построен график $f^{-2}(L)$ с учётом погрешностей (см. рис. \ref{fig:graph1}). Найдены угловой коэффициент и свободный член уравнения аппроксимирующей прямой по методу наименьших квадратов
+			
+			\begin{equation*}
+				  k = (1,05 \pm 0,02) \cdot 10^{-6}\ с^2/мм,\ \ \ b = (4,33 \pm 0,11) \cdot 10^{-5} \ с^2
+			\end{equation*}
+			
+			По формуле \ref{eq:linear1} имеем
+			
+			\begin{equation*}
+				\boxed{\delta = \frac{b}{k} = (41,2 \pm 1,3)  \ мм}
+			\end{equation*}
+			
 			
 			\begin{figure}[h!]
 				\centering
 				\includegraphics[width=0.7\linewidth]{Graph1}
-				\caption{График зависимости}
+				\caption{График зависимости $f^{-2}(L)$}
 				\label{fig:graph1}
 			\end{figure}
 			
@@ -853,8 +900,55 @@
 		
 		\section{Вторая серия}
 		
+		\hspace{4mm} Вторая часть эксперимента заключалась в снятии температурной зависимости резонасной частоты (см. таблицу \ref{tab:2-series}). Для этого снова строились АЧХ (см. рис. \ref{fig:temperature}). С помощью термостата получены 6 экспериментальных точек в диапазоне $35^oС - 80^oС$. Ещё три - в холодильнике (3 $^oС$), на улице (15 $^oС$) и в комнате (26 $^oС$).
+		
+		\begin{table}[h!]
+			\centering
+			\captionbox{Результаты измерений во второй серии}{
+			\begin{tabular}{|r|ccccccccc|}
+				\hline
+				t, C     & 3        & 15       & 25       & 35       & 45       & 55       & 65       & 75       & 80 \\
+				\hline
+				f, Гц    & 127,0    & 128,5    & 130,0    & 131,4    & 133,5    & 134,4    & 136,5    & 138,5    & 138,9 \\
+				\hline
+			\end{tabular}}
+			\label{tab:2-series}%
+		\end{table}%
+		
+		\begin{figure}
+			\centering
+			\includegraphics[width=1\linewidth]{temperature}
+			\caption{Усреднённые по трём измерениям АЧХ сосуда при разных температурах}
+			\label{fig:temperature}
+		\end{figure}
+		
+		По этим точкам построен график в координатах $f^2(t)$ (см. рис. \ref{fig:graph2}) 
+		
+		\begin{figure}
+			\centering
+			\includegraphics[width=0.7\linewidth]{Graph2}
+			\caption{График зависимости $f^2(t)$}
+			\label{fig:graph2}
+		\end{figure}
+		
+		Перевод в кельвины не обязателен, так имеет значение только угловой коэффициент. Он найден аналогично первой части измерений:
+		
+		\begin{equation*}
+			\boxed{k = (42,2 \pm 1,3) \ Гц^2/К}
+		\end{equation*}
+		
+		Во второй части опыта использовалась <<нулевая>> добавочная шейка под номером 1. Поэтому эффективная длина горла составила
+		
+		\begin{equation*}
+			\boxed{L_{эфф} = L_1 + \delta = (54,4 \pm 1,4) \ мм}
+		\end{equation*}
+		
+		
+		
 	
 	\chapter{Обработка измерений}
+	
+		
 	
 	\chapter{Анализ результатов}
 	

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.2)  5 MAY 2026 01:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.2)  5 MAY 2026 20:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,7 +867,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <All AFC 1 bottle.png, id=91, 1077.02374pt x 415.5525pt>
 File: All AFC 1 bottle.png Graphic file (type png)
 <use All AFC 1 bottle.png>
-Package pdftex.def Info: All AFC 1 bottle.png  used on input line 848.
+Package pdftex.def Info: All AFC 1 bottle.png  used on input line 856.
 (pdftex.def)             Requested size: 370.2541pt x 142.85849pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -875,39 +875,36 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Graph1.png, id=92, 749.13878pt x 573.28177pt>
-File: Graph1.png Graphic file (type png)
-<use Graph1.png>
-Package pdftex.def Info: Graph1.png  used on input line 894.
-(pdftex.def)             Requested size: 370.2541pt x 283.34235pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [20
 
 ]
+<Graph1.png, id=95, 749.13878pt x 573.28177pt>
+File: Graph1.png Graphic file (type png)
+<use Graph1.png>
+Package pdftex.def Info: Graph1.png  used on input line 902.
+(pdftex.def)             Requested size: 370.2541pt x 283.34235pt.
 
-LaTeX Warning: Text page 21 contains only floats.
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
-
-[21 <./All AFC 1 bottle.png (PNG copy)> <./Graph1.png>]
-<temperature.png, id=100, 807.7678pt x 326.72063pt>
+<temperature.png, id=96, 807.7678pt x 326.72063pt>
 File: temperature.png Graphic file (type png)
 <use temperature.png>
-Package pdftex.def Info: temperature.png  used on input line 920.
+Package pdftex.def Info: temperature.png  used on input line 928.
 (pdftex.def)             Requested size: 528.93675pt x 213.94125pt.
-<Graph2.png, id=101, 820.9872pt x 573.1011pt>
+<Graph2.png, id=97, 820.9872pt x 573.1011pt>
 File: Graph2.png Graphic file (type png)
 <use Graph2.png>
-Package pdftex.def Info: Graph2.png  used on input line 929.
+Package pdftex.def Info: Graph2.png  used on input line 937.
 (pdftex.def)             Requested size: 370.2541pt x 258.46152pt.
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.04742pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.04742pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
+
+[21 <./All AFC 1 bottle.png (PNG copy)>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.04742pt, for example:
@@ -915,7 +912,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
 
-[22 <./temperature.png>]
+[22 <./Graph1.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.04742pt, for example:
@@ -923,7 +920,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
 
-[23 <./Graph2.png>]
+[23 <./temperature.png> <./Graph2.png>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
 [24
 
@@ -947,7 +944,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  12638 strings out of 467577
  251720 string characters out of 5424718
- 689915 words of memory out of 5000000
+ 692915 words of memory out of 5000000
  41230 multiletter control sequences out of 15000+600000
  654150 words of font info for 156 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -968,7 +965,7 @@ m-super/sfrm0600.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sf
 rm0800.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb
 ><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texli
 ve/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (26 pages, 1275823 bytes).
+Output written on main.pdf (26 pages, 1276236 bytes).
 PDF statistics:
  197 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams

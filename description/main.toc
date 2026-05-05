@@ -31,6 +31,6 @@
 \contentsline {chapter}{\numberline {6}Результаты измерений}{20}{}%
 \contentsline {section}{\numberline {6.1}Предварительные измерения}{20}{}%
 \contentsline {section}{\numberline {6.2}Первая серия}{20}{}%
-\contentsline {section}{\numberline {6.3}Вторая серия}{22}{}%
+\contentsline {section}{\numberline {6.3}Вторая серия}{21}{}%
 \contentsline {chapter}{\numberline {7}Обработка измерений}{24}{}%
 \contentsline {chapter}{\numberline {8}Анализ результатов}{25}{}%

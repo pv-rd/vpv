@@ -7,30 +7,30 @@
 \contentsline {chapter}{\numberline {2}Теоретические сведения}{5}{}%
 \contentsline {section}{\numberline {2.1}Резонатор Гельмгольца}{5}{}%
 \contentsline {section}{\numberline {2.2}Скорость звука в газе}{8}{}%
-\contentsline {section}{\numberline {2.3}Метод добавочных шеек}{8}{}%
-\contentsline {section}{\numberline {2.4}Итоговая формула}{9}{}%
-\contentsline {chapter}{\numberline {3}Экспериментальная установка}{10}{}%
-\contentsline {section}{\numberline {3.1}Выбор сосуда}{10}{}%
-\contentsline {section}{\numberline {3.2}Добавочные трубки}{10}{}%
-\contentsline {chapter}{\numberline {4}Методика эксперимента}{12}{}%
-\contentsline {section}{\numberline {4.1}Измерение геометрических параметров}{12}{}%
-\contentsline {section}{\numberline {4.2}Способы возбуждения резонанса}{12}{}%
-\contentsline {section}{\numberline {4.3}Измерение температуры}{13}{}%
-\contentsline {section}{\numberline {4.4}Определение резонансной частоты}{13}{}%
-\contentsline {section}{\numberline {4.5}Преимущества и ограничения метода}{14}{}%
-\contentsline {subsection}{\numberline {4.5.1}Преимущества}{14}{}%
-\contentsline {subsection}{\numberline {4.5.2}Ограничения}{14}{}%
-\contentsline {chapter}{\numberline {5}Оценка погрешностей}{15}{}%
-\contentsline {section}{\numberline {5.1}Определение резонансной частоты}{15}{}%
-\contentsline {section}{\numberline {5.2}Погрешность концевой поправки}{16}{}%
-\contentsline {section}{\numberline {5.3}Погрешность эффективной длины шейки}{17}{}%
-\contentsline {section}{\numberline {5.4}Погрешность сечения шейки}{17}{}%
-\contentsline {section}{\numberline {5.5}Погрешность объёма бутылки}{18}{}%
-\contentsline {section}{\numberline {5.6}Погрешность наклона графика \(f^2(T)\)}{18}{}%
-\contentsline {section}{\numberline {5.7}Итоговая погрешность \(\gamma \)}{18}{}%
-\contentsline {chapter}{\numberline {6}Результаты измерений}{20}{}%
-\contentsline {section}{\numberline {6.1}Предварительные измерения}{20}{}%
-\contentsline {section}{\numberline {6.2}Первая серия}{20}{}%
-\contentsline {section}{\numberline {6.3}Вторая серия}{21}{}%
-\contentsline {chapter}{\numberline {7}Обработка измерений}{24}{}%
-\contentsline {chapter}{\numberline {8}Анализ результатов}{25}{}%
+\contentsline {section}{\numberline {2.3}Метод добавочных шеек}{9}{}%
+\contentsline {section}{\numberline {2.4}Итоговая формула}{10}{}%
+\contentsline {chapter}{\numberline {3}Экспериментальная установка}{11}{}%
+\contentsline {section}{\numberline {3.1}Выбор сосуда}{11}{}%
+\contentsline {section}{\numberline {3.2}Добавочные трубки}{12}{}%
+\contentsline {chapter}{\numberline {4}Методика эксперимента}{14}{}%
+\contentsline {section}{\numberline {4.1}Измерение геометрических параметров}{14}{}%
+\contentsline {section}{\numberline {4.2}Способы возбуждения резонанса}{14}{}%
+\contentsline {section}{\numberline {4.3}Измерение температуры}{15}{}%
+\contentsline {section}{\numberline {4.4}Определение резонансной частоты}{15}{}%
+\contentsline {section}{\numberline {4.5}Преимущества и ограничения метода}{16}{}%
+\contentsline {subsection}{\numberline {4.5.1}Преимущества}{16}{}%
+\contentsline {subsection}{\numberline {4.5.2}Ограничения}{16}{}%
+\contentsline {chapter}{\numberline {5}Оценка погрешностей}{17}{}%
+\contentsline {section}{\numberline {5.1}Определение резонансной частоты}{17}{}%
+\contentsline {section}{\numberline {5.2}Погрешность концевой поправки}{18}{}%
+\contentsline {section}{\numberline {5.3}Погрешность эффективной длины шейки}{19}{}%
+\contentsline {section}{\numberline {5.4}Погрешность сечения шейки}{19}{}%
+\contentsline {section}{\numberline {5.5}Погрешность объёма бутылки}{20}{}%
+\contentsline {section}{\numberline {5.6}Погрешность наклона графика \(f^2(T)\)}{20}{}%
+\contentsline {section}{\numberline {5.7}Итоговая погрешность \(\gamma \)}{20}{}%
+\contentsline {chapter}{\numberline {6}Результаты измерений}{22}{}%
+\contentsline {section}{\numberline {6.1}Предварительные измерения}{22}{}%
+\contentsline {section}{\numberline {6.2}Первая серия}{22}{}%
+\contentsline {section}{\numberline {6.3}Вторая серия}{24}{}%
+\contentsline {chapter}{\numberline {7}Обработка измерений}{26}{}%
+\contentsline {chapter}{\numberline {8}Анализ результатов}{27}{}%

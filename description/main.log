@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.2)  8 MAY 2026 01:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.2)  13 MAY 2026 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -578,6 +578,43 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip72
 \f@nch@widthR=\skip73
 \@temptokenb=\toks36
+)
+(c:/texlive/2025/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count322
+\lst@gtempboxa=\box58
+\lst@token=\toks37
+\lst@length=\count323
+\lst@currlwidth=\dimen193
+\lst@column=\count324
+\lst@pos=\count325
+\lst@lostspace=\dimen194
+\lst@width=\dimen195
+\lst@newlines=\count326
+\lst@lineno=\count327
+\lst@maxwidth=\dimen196
+
+(c:/texlive/2025/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count328
+\lst@skipnumbers=\count329
+\lst@framebox=\box59
+)
+(c:/texlive/2025/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+
+(c:/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+(c:/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+(c:/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 ) (./main.aux
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 5.
@@ -588,33 +625,36 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
+
+LaTeX Warning: Label `' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Info: Redefining \th on input line 37.
-LaTeX Info: Redefining \microtypecontext on input line 37.
-Package microtype Info: Applying patch `item' on input line 37.
-Package microtype Info: Applying patch `toc' on input line 37.
-Package microtype Info: Applying patch `eqnum' on input line 37.
-Package microtype Info: Applying patch `footnote' on input line 37.
-Package microtype Info: Applying patch `verbatim' on input line 37.
-LaTeX Info: Redefining \microtypesetup on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Info: Redefining \th on input line 40.
+LaTeX Info: Redefining \microtypecontext on input line 40.
+Package microtype Info: Applying patch `item' on input line 40.
+Package microtype Info: Applying patch `toc' on input line 40.
+Package microtype Info: Applying patch `eqnum' on input line 40.
+Package microtype Info: Applying patch `footnote' on input line 40.
+Package microtype Info: Applying patch `verbatim' on input line 40.
+LaTeX Info: Redefining \microtypesetup on input line 40.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -631,6 +671,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -669,17 +710,17 @@ Package caption Info: End \AtBeginDocument code.
 
 (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
-\scratchdimen=\dimen193
-\scratchbox=\box58
-\nofMPsegments=\count323
-\nofMParguments=\count324
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count325
-\MPscratchDim=\dimen194
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
-\everyMPtoPDFconversion=\toks38
+\scratchcounter=\count330
+\scratchdimen=\dimen197
+\scratchbox=\box60
+\nofMPsegments=\count331
+\nofMParguments=\count332
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count333
+\MPscratchDim=\dimen198
+\MPnumerator=\count334
+\makeMPintoPDFobject=\count335
+\everyMPtoPDFconversion=\toks39
 ) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -689,7 +730,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
+\c@lstlisting=\count336
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
 
 
 (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -698,7 +740,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (c:/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
 
 
 (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -709,7 +751,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 54.
+(Font)              using `T2A/cmr/m/n' instead on input line 57.
 
 [1
 
@@ -728,7 +770,7 @@ texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] (./main.toc [1
 
 {c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Package babel Info: 'russian' activates 'russian' shorthands.
-(babel)             Reported on input line 141.
+(babel)             Reported on input line 144.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -742,7 +784,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/resonator_scheme.png, id=29, 323.2075pt x 363.3575pt>
 File: images/resonator_scheme.png Graphic file (type png)
 <use images/resonator_scheme.png>
-Package pdftex.def Info: images/resonator_scheme.png  used on input line 167.
+Package pdftex.def Info: images/resonator_scheme.png  used on input line 170.
 (pdftex.def)             Requested size: 238.01991pt x 267.58849pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -797,7 +839,7 @@ File: images/резонатор Гельмгольца.jpg Graphic file (type j
 pg)
 <use images/резонатор Гельмгольца.jpg>
 Package pdftex.def Info: images/резонатор Гельмгольца.jpg  
-used on input line 475.
+used on input line 478.
 (pdftex.def)             Requested size: 290.91682pt x 421.22108pt.
 [11
 
@@ -816,7 +858,7 @@ File: images/дополнительные трубки.png Graphic file (type p
 ng)
 <use images/дополнительные трубки.png>
 Package pdftex.def Info: images/дополнительные трубки.png  
-used on input line 498.
+used on input line 501.
 (pdftex.def)             Requested size: 396.70256pt x 298.76163pt.
 
 
@@ -835,18 +877,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: images/2 серия измерий.png Graphic file (type png)
 <use images/2 серия измерий.png>
 Package pdftex.def Info: images/2 серия измерий.png  used on input 
-line 545.
+line 548.
 (pdftex.def)             Requested size: 248.6009pt x 156.33624pt.
 <images/temperature_detail.png, id=71, 1284.8pt x 963.6pt>
 File: images/temperature_detail.png Graphic file (type png)
 <use images/temperature_detail.png>
-Package pdftex.def Info: images/temperature_detail.png  used on input line 551.
+Package pdftex.def Info: images/temperature_detail.png  used on input line 554.
 
 (pdftex.def)             Requested size: 248.6009pt x 186.43826pt.
 <images/AFC.png, id=72, 431.36156pt x 179.92218pt>
 File: images/AFC.png Graphic file (type png)
 <use images/AFC.png>
-Package pdftex.def Info: images/AFC.png  used on input line 566.
+Package pdftex.def Info: images/AFC.png  used on input line 569.
 (pdftex.def)             Requested size: 423.151pt x 176.50372pt.
 
 
@@ -873,13 +915,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/Headphone AFC.png, id=81, 1077.02374pt x 478.78876pt>
 File: images/Headphone AFC.png Graphic file (type png)
 <use images/Headphone AFC.png>
-Package pdftex.def Info: images/Headphone AFC.png  used on input line 616.
+Package pdftex.def Info: images/Headphone AFC.png  used on input line 619.
 (pdftex.def)             Requested size: 370.2541pt x 164.59784pt.
 <images/Headphone work range.png, id=82, 1077.02374pt x 478.78876pt>
 File: images/Headphone work range.png Graphic file (type png)
 <use images/Headphone work range.png>
-Package pdftex.def Info: images/Headphone work range.png  used on input line 62
-7.
+Package pdftex.def Info: images/Headphone work range.png  used on input line 63
+0.
 (pdftex.def)             Requested size: 370.2541pt x 164.59784pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -887,7 +929,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/Many.png, id=83, 1016.29688pt x 413.29407pt>
 File: images/Many.png Graphic file (type png)
 <use images/Many.png>
-Package pdftex.def Info: images/Many.png  used on input line 638.
+Package pdftex.def Info: images/Many.png  used on input line 641.
 (pdftex.def)             Requested size: 370.2541pt x 150.57043pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -928,43 +970,57 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [21]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-<images/All necks.png, id=104, 1077.02374pt x 505.89pt>
-File: images/All necks.png Graphic file (type png)
-<use images/All necks.png>
-Package pdftex.def Info: images/All necks.png  used on input line 883.
-(pdftex.def)             Requested size: 370.2541pt x 173.91469pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [22
 
 ]
-<images/Neck length function.png, id=108, 820.9872pt x 573.1011pt>
+<images/All necks.png, id=107, 1077.02374pt x 505.89pt>
+File: images/All necks.png Graphic file (type png)
+<use images/All necks.png>
+Package pdftex.def Info: images/All necks.png  used on input line 925.
+(pdftex.def)             Requested size: 528.93675pt x 248.45177pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.04742pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.04742pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
+
+[23 <./images/All necks.png (PNG copy)>]
+<images/Neck length function.png, id=111, 820.9872pt x 573.1011pt>
 File: images/Neck length function.png Graphic file (type png)
 <use images/Neck length function.png>
-Package pdftex.def Info: images/Neck length function.png  used on input line 92
-5.
-(pdftex.def)             Requested size: 370.2541pt x 258.46152pt.
+Package pdftex.def Info: images/Neck length function.png  used on input line 95
+9.
+(pdftex.def)             Requested size: 528.93675pt x 369.24948pt.
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.04742pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.04742pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23 <./images/All necks.png (PNG copy)> <./images/neck length function.png>]
-<images/All temperatures.png, id=113, 1077.02374pt x 505.89pt>
+<images/All temperatures.png, id=112, 1077.02374pt x 505.89pt>
 File: images/All temperatures.png Graphic file (type png)
 <use images/All temperatures.png>
-Package pdftex.def Info: images/All temperatures.png  used on input line 951.
+Package pdftex.def Info: images/All temperatures.png  used on input line 986.
 (pdftex.def)             Requested size: 528.93675pt x 248.45177pt.
-<images/Temperature function.png, id=114, 820.9872pt x 573.1011pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Temperature function.png, id=113, 820.9872pt x 573.1011pt>
 File: images/Temperature function.png Graphic file (type png)
 <use images/Temperature function.png>
-Package pdftex.def Info: images/Temperature function.png  used on input line 96
-0.
-(pdftex.def)             Requested size: 370.2541pt x 258.46152pt.
+Package pdftex.def Info: images/Temperature function.png  used on input line 99
+5.
+(pdftex.def)             Requested size: 528.93675pt x 369.24948pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.04742pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.04742pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
+
+[24 <./images/neck length function.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -973,7 +1029,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
 
-[24 <./images/All temperatures.png (PNG copy)>]
+[25 <./images/All temperatures.png (PNG copy)>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.04742pt, for example:
@@ -981,13 +1037,54 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
 
-[25 <./images/temperature function.png>]
+[26 <./images/temperature function.png>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
-[26
+[27
 
 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.04742pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.04742pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.04742pt}.
+
+[28]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
-[27
+[29
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 9.
+[32
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33]
+{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre } A
+.
+[34
 
 ] (./main.aux)
  ***********
@@ -1003,13 +1100,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12779 strings out of 467577
- 256321 string characters out of 5424718
- 690264 words of memory out of 5000000
- 41361 multiletter control sequences out of 15000+600000
- 654381 words of font info for 159 fonts, out of 8000000 for 9000
+ 14590 strings out of 467577
+ 280623 string characters out of 5424718
+ 901528 words of memory out of 5000000
+ 43143 multiletter control sequences out of 15000+600000
+ 654668 words of font info for 164 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,15n,75p,1171b,518s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,15n,75p,1171b,1145s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
 live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2025/texmf-dis
@@ -1026,10 +1123,10 @@ m-super/sfrm0600.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sf
 rm0800.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb
 ><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texli
 ve/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (28 pages, 6105544 bytes).
+Output written on main.pdf (35 pages, 6132172 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
+ 231 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  49218 words of extra memory for PDF output out of 51595 (max. 10000000)
 

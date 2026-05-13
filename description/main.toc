@@ -30,7 +30,9 @@
 \contentsline {section}{\numberline {5.7}Итоговая погрешность \(\gamma \)}{20}{}%
 \contentsline {chapter}{\numberline {6}Результаты измерений}{22}{}%
 \contentsline {section}{\numberline {6.1}Предварительные измерения}{22}{}%
-\contentsline {section}{\numberline {6.2}Первая серия}{22}{}%
+\contentsline {section}{\numberline {6.2}Первая серия}{23}{}%
 \contentsline {section}{\numberline {6.3}Вторая серия}{24}{}%
-\contentsline {chapter}{\numberline {7}Обработка измерений}{26}{}%
-\contentsline {chapter}{\numberline {8}Анализ результатов}{27}{}%
+\contentsline {chapter}{\numberline {7}Обработка измерений}{27}{}%
+\contentsline {chapter}{\numberline {8}Анализ результатов}{29}{}%
+\contentsline {chapter}{\numberline {9}Вывод}{32}{}%
+\contentsline {chapter}{\numberline {A}Исходный код программы}{34}{}%

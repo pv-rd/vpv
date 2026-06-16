@@ -1,38 +1,31 @@
 \babel@toc {russian}{}\relax 
-\contentsline {chapter}{\numberline {1}Введение}{3}{}%
-\contentsline {section}{\numberline {1.1}Аннотация}{3}{}%
-\contentsline {section}{\numberline {1.2}Релевантность выбранной темы}{3}{}%
-\contentsline {section}{\numberline {1.3}Цель работы}{4}{}%
-\contentsline {section}{\numberline {1.4}Используемые материалы и оборудование}{4}{}%
-\contentsline {chapter}{\numberline {2}Теоретические сведения}{5}{}%
-\contentsline {section}{\numberline {2.1}Резонатор Гельмгольца}{5}{}%
-\contentsline {section}{\numberline {2.2}Скорость звука в газе}{8}{}%
-\contentsline {section}{\numberline {2.3}Метод добавочных шеек}{9}{}%
-\contentsline {section}{\numberline {2.4}Итоговая формула}{10}{}%
-\contentsline {chapter}{\numberline {3}Экспериментальная установка}{11}{}%
-\contentsline {section}{\numberline {3.1}Выбор сосуда}{11}{}%
-\contentsline {section}{\numberline {3.2}Добавочные трубки}{12}{}%
-\contentsline {chapter}{\numberline {4}Методика эксперимента}{14}{}%
-\contentsline {section}{\numberline {4.1}Измерение геометрических параметров}{14}{}%
-\contentsline {section}{\numberline {4.2}Способы возбуждения резонанса}{14}{}%
-\contentsline {section}{\numberline {4.3}Измерение температуры}{15}{}%
-\contentsline {section}{\numberline {4.4}Определение резонансной частоты}{15}{}%
-\contentsline {section}{\numberline {4.5}Преимущества и ограничения метода}{16}{}%
-\contentsline {subsection}{\numberline {4.5.1}Преимущества}{16}{}%
-\contentsline {subsection}{\numberline {4.5.2}Ограничения}{16}{}%
-\contentsline {chapter}{\numberline {5}Оценка погрешностей}{17}{}%
-\contentsline {section}{\numberline {5.1}Определение резонансной частоты}{17}{}%
-\contentsline {section}{\numberline {5.2}Погрешность концевой поправки}{18}{}%
-\contentsline {section}{\numberline {5.3}Погрешность эффективной длины шейки}{19}{}%
-\contentsline {section}{\numberline {5.4}Погрешность сечения шейки}{19}{}%
-\contentsline {section}{\numberline {5.5}Погрешность объёма бутылки}{20}{}%
-\contentsline {section}{\numberline {5.6}Погрешность наклона графика \(f^2(T)\)}{20}{}%
-\contentsline {section}{\numberline {5.7}Итоговая погрешность \(\gamma \)}{20}{}%
-\contentsline {chapter}{\numberline {6}Результаты измерений}{22}{}%
-\contentsline {section}{\numberline {6.1}Предварительные измерения}{22}{}%
-\contentsline {section}{\numberline {6.2}Первая серия}{23}{}%
-\contentsline {section}{\numberline {6.3}Вторая серия}{24}{}%
-\contentsline {chapter}{\numberline {7}Обработка измерений}{27}{}%
-\contentsline {chapter}{\numberline {8}Анализ результатов}{29}{}%
-\contentsline {chapter}{\numberline {9}Вывод}{32}{}%
-\contentsline {chapter}{\numberline {A}Исходный код программы}{34}{}%
+\contentsline {chapter}{\numberline {1}Введение}{2}{}%
+\contentsline {section}{\numberline {1.1}Аннотация}{2}{}%
+\contentsline {section}{\numberline {1.2}Цель работы}{2}{}%
+\contentsline {section}{\numberline {1.3}Используемые материалы и оборудование}{3}{}%
+\contentsline {chapter}{\numberline {2}Теоретические сведения}{4}{}%
+\contentsline {section}{\numberline {2.1}Резонатор Гельмгольца}{4}{}%
+\contentsline {section}{\numberline {2.2}Скорость звука в газе}{6}{}%
+\contentsline {section}{\numberline {2.3}Метод добавочных шеек}{7}{}%
+\contentsline {section}{\numberline {2.4}Итоговая формула}{7}{}%
+\contentsline {chapter}{\numberline {3}Экспериментальная установка}{8}{}%
+\contentsline {section}{\numberline {3.1}Выбор сосуда}{8}{}%
+\contentsline {section}{\numberline {3.2}Добавочные трубки}{9}{}%
+\contentsline {chapter}{\numberline {4}Методика эксперимента}{10}{}%
+\contentsline {section}{\numberline {4.1}Измерение геометрических параметров}{10}{}%
+\contentsline {section}{\numberline {4.2}Определение резонансной частоты}{10}{}%
+\contentsline {section}{\numberline {4.3}Измерение температуры}{11}{}%
+\contentsline {section}{\numberline {4.4}Преимущества и ограничения метода}{12}{}%
+\contentsline {chapter}{\numberline {5}Оценка погрешностей}{13}{}%
+\contentsline {section}{\numberline {5.1}Определение резонансной частоты}{13}{}%
+\contentsline {section}{\numberline {5.2}Погрешность эффективной длины шейки}{14}{}%
+\contentsline {section}{\numberline {5.3}Погрешность объёма бутылки}{15}{}%
+\contentsline {section}{\numberline {5.4}Погрешность наклона графика \(f^2(T)\)}{15}{}%
+\contentsline {section}{\numberline {5.5}Итоговая погрешность \(\gamma \)}{15}{}%
+\contentsline {chapter}{\numberline {6}Результаты измерений}{16}{}%
+\contentsline {section}{\numberline {6.1}Предварительные измерения}{16}{}%
+\contentsline {section}{\numberline {6.2}Первая серия}{17}{}%
+\contentsline {section}{\numberline {6.3}Вторая серия}{18}{}%
+\contentsline {section}{\numberline {6.4}Нахождение $\gamma $}{20}{}%
+\contentsline {chapter}{\numberline {7}Анализ результатов}{21}{}%
+\contentsline {chapter}{\numberline {8}Вывод}{24}{}%

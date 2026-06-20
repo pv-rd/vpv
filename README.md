@@ -16,6 +16,7 @@
 - `analisys` — построение графиков
 - `description` — отчёт
 - `measurements` — экспериментальные данные
+- `code` — код для температурного датчика
 
 ## Использованное ПО
-REW, Excel, OriginPro, LaTeX
+REW, Excel, OriginPro, LaTeX, Arduino IDE
